@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on school assignments, but more importantly a *super secret* DAN BOT 0!
 - 🌱 I’m currently learning java through assignments, and after I want to try and make a basic installable program
 - 👯 I’m looking to collaborate on anything I could get practical experience from
-- 🤔 I generally look for help with knowing when to use one technique over another 
+- 🤔 I generally look for help with knowing when to use one technique over another... and figuring out how to read documentation... so really only when a new problem comes up 
 - 💬 Ask me about steins gate
 - 📫 How to reach me: Here!
 - 😄 Pronouns: He/Him
