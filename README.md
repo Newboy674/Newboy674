@@ -4,7 +4,7 @@
 **Newboy674/Newboy674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 =
-- 🔭 I’m currently working on school assignments, but more importantly a ~super secret~ DAN BOT 0!
+- 🔭 I’m currently working on school assignments, but more importantly a *super secret* DAN BOT 0!
 - 🌱 I’m currently learning java through assignments, and after I want to try and make a basic installable program
 - 👯 I’m looking to collaborate on anything I could get practical experience from
 - 🤔 I generally look for help with knowing when to use one technique over another 
