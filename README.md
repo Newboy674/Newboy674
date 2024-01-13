@@ -6,7 +6,7 @@
 =
 - 🔭 I’m currently working on school assignments, but more importantly a *super secret* DAN BOT 0!
 - 🌱 I’m currently learning java through assignments, and after that I want to try and make a basic installable program, with a setupwizard and all that jazz
-- 👯 I’m looking to collaborate on anything I could get practical experience from
+- 👯 I’m looking to collaborate on anything I could get practical experience for my skill level from 
 - 🤔 I look for help when I want to know when to use one technique over another... or when im figuring out how to read documentation... or when trying to pin down what subjects I need to learn to do the project I want to do. so really only when a new problem comes up 
 - 💬 Ask me about steins gate
 - 📫 How to reach me: Here!
